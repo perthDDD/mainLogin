@@ -9,7 +9,7 @@ loginButton.addEventListener("click", (e) => {
 
     if (username === "uniteAsOne" && password === "achieveOurGoal") {
         alert("You have successfully logged in.");
-        window.location.href = "https://perth-heavenly-library.super.site/";
+        window.location.href = "https://funky-wave-252.notion.site/Heavenly-Library-f7f7b1afe2c349a988b6537e5b503c36?pvs=4";
     } else {
         loginErrorMsg.style.opacity = 1;
     }
